@@ -1,16 +1,36 @@
-# dicee_flutter
+# **Dicee Flutter**
 
-A new Flutter project.
+## **Overview**
 
-## Getting Started
+A simple **Flutter dice rolling app** that displays a random dice number on tap. 🎲
 
-This project is a starting point for a Flutter application.
+## **📱 Features**
 
-A few resources to get you started if this is your first Flutter project:
+- **Random Dice Roll**: Tap to generate new dice numbers.
+- **Simple UI**: Clean and minimal interface.
+- **Quick Interaction**: Instant response on tap.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## **🖼️ Screenshots**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/WaleedTaj/Dicee_Flutter/blob/master/images/Screenshot1.png" width="200" style="margin-right: 20px;"/> <img src="https://github.com/WaleedTaj/Dicee_Flutter/blob/master/images/Screenshot2.png" width="200"/> <img src="https://github.com/WaleedTaj/Dicee_Flutter/blob/master/images/Screenshot3.png" width="200"/> 
+
+## **🚀 Getting Started**
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/WaleedTaj/Dicee_Flutter.git
+   ```
+2. **Install Dependencies**:
+   ```bash
+   flutter pub get
+   ```
+3. **Run the App**:
+   ```bash
+   flutter run
+   ```
+
+## **🛠️ Built With**
+
+- **Flutter** - Framework for cross-platform development.
+- **Dart** - Programming language for Flutter apps.
+
